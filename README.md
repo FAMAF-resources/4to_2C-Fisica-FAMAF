@@ -15,7 +15,7 @@ Es correlativa de:
 ## Clonar el repositorio
 
 ```bash
-git clone <repo-url>
+git git@github.com:FAMAF-resources/4to_2C-Fisica-FAMAF.git
 ```
 
 # Contribuciones
